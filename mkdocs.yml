@@ -1,0 +1,10 @@
+site_name: Law Firm Website Accessibility Checklist
+site_description: A practical accessibility checklist for law firm websites, organised by page and by owner, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-website-accessibility-checklist.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Accessibility checklist: index.md
+markdown_extensions:
+  - tables
